@@ -1,4 +1,4 @@
-# Tableau BI RetailReveal: In-Depth Sales Analysis for Superstore
+# Tableau BI RetailReveal: In-Depth Sales Analysis for Superstore [https://public.tableau.com/app/profile/eugenio.pasqua/viz/shared/747ZJK6KW]
 
 ## Project Overview
 
@@ -58,20 +58,3 @@ Additional analyses to improve Superstore's efficiency, potentially including:
 
 ## Getting Started
 
-[Include instructions on how to access and use the Tableau workbooks, any necessary data connections, etc.]
-
-## Future Enhancements
-
-[List potential future features or improvements planned for the project]
-
-## Contributing
-
-[Provide guidelines for how others can contribute to the project, if applicable]
-
-## License
-
-[Include license information]
-
-## Contact
-
-[Provide contact information for project maintainers]
