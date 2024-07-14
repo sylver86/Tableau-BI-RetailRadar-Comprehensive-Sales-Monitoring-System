@@ -1,4 +1,6 @@
-# Tableau BI RetailReveal: In-Depth Sales Analysis for Superstore [https://public.tableau.com/app/profile/eugenio.pasqua/viz/shared/747ZJK6KW]
+# Tableau BI RetailReveal: In-Depth Sales Analysis for Superstore 
+
+https://public.tableau.com/app/profile/eugenio.pasqua/viz/shared/747ZJK6KW
 
 ## Project Overview
 
