@@ -57,6 +57,3 @@ Additional analyses to improve Superstore's efficiency, potentially including:
 - **Platform:** Tableau
 - **Data Source:** Superstore European sales data
 - **Key Visualizations:** Time series charts, geographical maps, bar charts, scatter plots
-
-## Getting Started
-
